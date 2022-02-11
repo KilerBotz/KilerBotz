@@ -11,7 +11,7 @@
 
 ```Asal : Lombok Tengah```
 
-```Umur : 14```
+```Umur : Null```
 
 ```Hobby : Coding Dan Main Bola```
 
